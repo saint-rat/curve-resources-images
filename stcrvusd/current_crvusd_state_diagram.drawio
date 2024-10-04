@@ -1,0 +1,64 @@
+<mxfile host="Electron" modified="2024-10-03T06:33:46.288Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="guQhMHgStRuVu0YVAuSU" version="21.6.5" type="device">
+  <diagram name="Page-1" id="bgyYiAvPLvNy4FUmHqp5">
+    <mxGraphModel dx="650" dy="2401" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1060" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_Hki0LezCygjLe85w0sc-22" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;opacity=30;fillColor=#EDEDED;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-310" width="550" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hki0LezCygjLe85w0sc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFE6CC;fontStyle=1;strokeColor=#D79B00;" parent="1" vertex="1">
+          <mxGeometry x="400" y="-269.3" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hki0LezCygjLe85w0sc-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFE6CC;fontStyle=1;strokeColor=#D79B00;" parent="1" vertex="1">
+          <mxGeometry x="400" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hki0LezCygjLe85w0sc-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFE6CC;fontStyle=1;strokeColor=#D79B00;" parent="1" vertex="1">
+          <mxGeometry x="530" y="-190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hki0LezCygjLe85w0sc-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFE6CC;fontStyle=1;strokeColor=#D79B00;" parent="1" vertex="1">
+          <mxGeometry x="271.6" y="-190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hki0LezCygjLe85w0sc-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=6.06;dx=18.51;notch=0;arrowHead=35.89;rounded=1;rotation=90;fillColor=#FFFFCC;fontColor=default;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="542.13" y="-258.17" width="48.68" height="75.53" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hki0LezCygjLe85w0sc-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=6;dx=21.6;notch=0;arrowHead=38;rounded=1;rotation=-180;fillColor=#FFFFCC;fontColor=default;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="526.6" y="-120" width="65" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hki0LezCygjLe85w0sc-15" value="&lt;b style=&quot;border-color: var(--border-color); text-align: right;&quot;&gt;crvUSD supply increases&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: right;&quot;&gt; as&lt;/span&gt;&amp;nbsp;borrowers mint and sell crvUSD for other assets" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="-279.3" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hki0LezCygjLe85w0sc-16" value="The system &lt;b&gt;increases minting rates&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="-130" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hki0LezCygjLe85w0sc-17" value="&lt;b&gt;crvUSD supply reduces &lt;/b&gt;as&amp;nbsp;borrowers buy back crvUSD and close loans&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-110" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hki0LezCygjLe85w0sc-18" value="The system &lt;b&gt;reduces minting rates&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="-262.59000000000003" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hki0LezCygjLe85w0sc-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=6.06;dx=18.51;notch=0;arrowHead=35.89;rounded=1;rotation=-90;fillColor=#FFFFCC;fontColor=default;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="331.75" y="-138.63" width="42.3" height="69.38" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hki0LezCygjLe85w0sc-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=6;dx=21.6;notch=0;arrowHead=38;rounded=1;rotation=0;fillColor=#FFFFCC;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="331" y="-256.18" width="63" height="57.18" as="geometry" />
+        </mxCell>
+        <mxCell id="pAeomG1ieeV7BzEHPzUW-1" value="&lt;font color=&quot;#808080&quot;&gt;crvUSD dynamics without st-crvUSD&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="200" y="-309.3" width="273.4" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAeomG1ieeV7BzEHPzUW-2" value="&lt;b&gt;Minting rates&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;are low&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D79B00;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="405" y="-264" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pAeomG1ieeV7BzEHPzUW-3" value="&lt;b&gt;crvUSD is&lt;br&gt;below peg&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D79B00;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="535" y="-185" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pAeomG1ieeV7BzEHPzUW-5" value="&lt;span&gt;Minting rates&lt;br&gt;&lt;/span&gt;are high" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D79B00;opacity=50;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="405" y="-115" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pAeomG1ieeV7BzEHPzUW-6" value="&lt;b&gt;crvUSD is&lt;br&gt;at peg&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D79B00;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="276.6" y="-185" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

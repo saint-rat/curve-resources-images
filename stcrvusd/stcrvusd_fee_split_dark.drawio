@@ -1,0 +1,76 @@
+<mxfile host="Electron" modified="2024-10-03T06:15:10.506Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="wP_VEH-ng6bIsPgdFDWs" version="21.6.5" type="device">
+  <diagram name="Page-1" id="bgyYiAvPLvNy4FUmHqp5">
+    <mxGraphModel dx="1364" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1060" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nVr5CLo9Lkq46v9ENuNp-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;opacity=30;fillColor=#4D4D4D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="120" y="90" width="660" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="AzGyzANzfNbE8Qy7t4lp-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#A1B0A0;strokeColor=#D5E8D4;strokeWidth=1;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="110" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AzGyzANzfNbE8Qy7t4lp-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#D1BDA7;strokeColor=#FFE6CC;strokeWidth=1;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="110" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AzGyzANzfNbE8Qy7t4lp-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#A3AEBD;strokeColor=#DAE8FC;fontStyle=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="560" y="240" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AzGyzANzfNbE8Qy7t4lp-28" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="360" y="150" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AzGyzANzfNbE8Qy7t4lp-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;width=7.831715210355988;endSize=7.604651162790699;fillColor=#999900;strokeColor=#FFFFCC;endWidth=18.64378716038233;fontSize=12;shadow=0;dashed=0;" parent="AzGyzANzfNbE8Qy7t4lp-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="76" y="20" as="sourcePoint" />
+            <mxPoint x="180" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="76" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AzGyzANzfNbE8Qy7t4lp-25" value="" style="group" parent="AzGyzANzfNbE8Qy7t4lp-28" vertex="1" connectable="0">
+          <mxGeometry width="180" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AzGyzANzfNbE8Qy7t4lp-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999900;strokeColor=#FFFFCC;shadow=0;dashed=0;" parent="AzGyzANzfNbE8Qy7t4lp-25" vertex="1">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AzGyzANzfNbE8Qy7t4lp-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;width=20;endSize=7.510666666666666;fillColor=#999900;strokeColor=#FFFFCC;fontSize=12;shadow=0;dashed=0;" parent="AzGyzANzfNbE8Qy7t4lp-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="10" as="sourcePoint" />
+            <mxPoint x="180" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AzGyzANzfNbE8Qy7t4lp-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999900;strokeColor=#999900;" parent="AzGyzANzfNbE8Qy7t4lp-25" vertex="1">
+          <mxGeometry x="70" y="1" width="10" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="AzGyzANzfNbE8Qy7t4lp-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999900;strokeColor=#999900;" parent="AzGyzANzfNbE8Qy7t4lp-25" vertex="1">
+          <mxGeometry x="73" y="7" width="6" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="AzGyzANzfNbE8Qy7t4lp-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999900;strokeColor=#999900;" parent="AzGyzANzfNbE8Qy7t4lp-25" vertex="1">
+          <mxGeometry x="68" y="4" width="6" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="S6XwvTl8C81hOJvg7Eni-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Small amount of fees are directed to st-crvUSD&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="AzGyzANzfNbE8Qy7t4lp-28" vertex="1">
+          <mxGeometry x="-10" y="130" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6XwvTl8C81hOJvg7Eni-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Most fees continue to go to the DAO&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="350" y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6XwvTl8C81hOJvg7Eni-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;crvUSD fees&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#577844;strokeColor=#D5E8D4;opacity=50;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="157" y="117" width="176" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="S6XwvTl8C81hOJvg7Eni-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;st-crvUSD&lt;br&gt;Vault&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6C8EBF;strokeColor=#DAE8FC;opacity=50;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="567" y="247" width="176" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="fwu5BLkJGspasURcfAsg-2" value="&lt;font style=&quot;font-size: 21px;&quot; color=&quot;#808080&quot;&gt;crvUSD fee split&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=15;fontColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="130" y="310" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fwu5BLkJGspasURcfAsg-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Curve DAO&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#994C00;strokeColor=#FFE6CC;opacity=50;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="567" y="117" width="176" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="fwu5BLkJGspasURcfAsg-4" value="&lt;font color=&quot;#808080&quot; style=&quot;font-size: 15px;&quot;&gt;with limits set by the DAO&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="310" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

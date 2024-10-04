@@ -1,0 +1,46 @@
+<mxfile host="Electron" modified="2024-10-04T00:23:07.145Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="uM3aTCw4NfLdBQup5lpq" version="21.6.5" type="device">
+  <diagram name="Page-1" id="XQpnbHps4Ra_ysarjgnG">
+    <mxGraphModel dx="1364" dy="2843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1060" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uSqVCuNqCW10vcJo9bsy-1" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#4D4D4D;strokeColor=#FFFFFF;arcSize=13;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-1960" width="370" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqVCuNqCW10vcJo9bsy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#688F51;strokeColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="340" y="-1910" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqVCuNqCW10vcJo9bsy-3" value="USDC" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-1910" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqVCuNqCW10vcJo9bsy-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#AD7D00;strokeColor=#FFE6CC;" parent="1" vertex="1">
+          <mxGeometry x="100" y="-1910" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqVCuNqCW10vcJo9bsy-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#688F51;strokeColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-1850" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqVCuNqCW10vcJo9bsy-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#AD7D00;strokeColor=#FFE6CC;" parent="1" vertex="1">
+          <mxGeometry x="100" y="-1850" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqVCuNqCW10vcJo9bsy-7" value="DAI" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-1850" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqVCuNqCW10vcJo9bsy-8" value="USDC / DAI Stableswap Pool" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-1960" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqVCuNqCW10vcJo9bsy-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#AD7D00;strokeColor=#FFE6CC;" parent="1" vertex="1">
+          <mxGeometry x="80" y="-1765" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqVCuNqCW10vcJo9bsy-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#688F51;strokeColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="250" y="-1765" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqVCuNqCW10vcJo9bsy-12" value="User Assets" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="110" y="-1770" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqVCuNqCW10vcJo9bsy-13" value="Admin Fees" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-1770" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

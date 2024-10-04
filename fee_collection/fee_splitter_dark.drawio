@@ -1,0 +1,61 @@
+<mxfile host="Electron" modified="2024-10-04T01:35:21.773Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="N6OGi0Qvmf0-O92kLlh6" version="21.6.5" type="device">
+  <diagram name="Page-1" id="KmqBuny11dcGHE-aLbBQ">
+    <mxGraphModel dx="1364" dy="2843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1060" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J4hrUMjAqNFPKfTZg-ua-1" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;arcSize=13;fillColor=#4D4D4D;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-1380" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="J4hrUMjAqNFPKfTZg-ua-2" value="Fee Splitter" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-1380" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J4hrUMjAqNFPKfTZg-ua-3" value="&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Claims and splits crvUSD fees according to DAO defined limits&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-1350" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J4hrUMjAqNFPKfTZg-ua-5" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=7;strokeColor=#97D077;fillColor=#ffe6cc;endSize=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="-1330" as="sourcePoint" />
+            <mxPoint x="350" y="-1330.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J4hrUMjAqNFPKfTZg-ua-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.396;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#97D077;fillColor=#ffe6cc;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410.1600000000001" y="-1280" as="sourcePoint" />
+            <mxPoint x="410" y="-1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J4hrUMjAqNFPKfTZg-ua-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#8D96A3;strokeColor=#DAE8FC;fontStyle=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="300" y="-1180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J4hrUMjAqNFPKfTZg-ua-20" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;st-crvUSD&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4B6385;strokeColor=#DAE8FC;opacity=50;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="308.5" y="-1171.5" width="121.5" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="J4hrUMjAqNFPKfTZg-ua-21" value="" style="endArrow=oval;html=1;rounded=0;strokeColor=#97D077;fillColor=#ffe6cc;strokeWidth=3;endFill=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="-1280" as="sourcePoint" />
+            <mxPoint x="530" y="-1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J4hrUMjAqNFPKfTZg-ua-22" value="More products can be added to the splitter if the DAO desires" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="485" y="-1171.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4hrUMjAqNFPKfTZg-ua-23" value="st-crvUSD requests a percentage of fees between the Max and Min defined by the DAO" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="290" y="-1270" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J4hrUMjAqNFPKfTZg-ua-24" value="All crvUSD minting admin fees flow through the fee splitter" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="130" y="-1390" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J4hrUMjAqNFPKfTZg-ua-25" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;strokeColor=#97D077;fillColor=#ffe6cc;endSize=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="-1330" as="sourcePoint" />
+            <mxPoint x="710" y="-1330.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J4hrUMjAqNFPKfTZg-ua-26" value="Rest of fees continue to be collected for distribution to veCRV holders" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="630" y="-1400" width="170" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

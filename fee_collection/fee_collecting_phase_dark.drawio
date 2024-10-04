@@ -1,0 +1,177 @@
+<mxfile host="Electron" modified="2024-10-04T00:13:34.902Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="nyMCThMmCK08jQct5IQ2" version="21.6.5" type="device">
+  <diagram name="Page-1" id="XQpnbHps4Ra_ysarjgnG">
+    <mxGraphModel dx="1364" dy="2843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1060" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-1" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;arcSize=13;fillColor=#4D4D4D;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-1170" width="380" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#688F51;strokeColor=#97D077;strokeWidth=3;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="-970" as="targetPoint" />
+            <mxPoint x="370" y="-1100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#688F51;strokeColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-1120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-4" value="USDC" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-1120" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#AD7D00;strokeColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-1120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#688F51;strokeColor=#97D077;strokeWidth=3;fontSize=12;" edge="1" parent="1" source="l8Ifhlr_3lOIqzxVYJLy-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="-970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#688F51;strokeColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-1060" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#AD7D00;strokeColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-1060" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-9" value="DAI" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-1060" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-10" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;textOpacity=50;opacity=50;fillColor=#4D4D4D;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-970" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#688F51;strokeColor=#97D077;strokeWidth=3;fontSize=12;" edge="1" parent="1" source="l8Ifhlr_3lOIqzxVYJLy-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="-900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#688F51;strokeColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-920" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-13" value="LP Tokens" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-920" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#AD7D00;strokeColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-920" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-15" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;opacity=50;fillColor=#4D4D4D;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-710" width="380" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#688F51;strokeColor=#97D077;strokeWidth=3;fontSize=12;" edge="1" parent="1" source="l8Ifhlr_3lOIqzxVYJLy-17" target="l8Ifhlr_3lOIqzxVYJLy-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="-620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="-620" />
+              <mxPoint x="450" y="-670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#688F51;strokeColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-640" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-18" value="ETH crvUSD Minting Market" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-710" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#AD7D00;strokeColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-640" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-20" value="crvUSD" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-640" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-21" value="USDC / WETH Cryptoswap Pool" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-970" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-22" value="USDC / DAI Stableswap Pool" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-1170" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-23" value="Debt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-670" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#AD7D00;strokeColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-1135" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#688F51;strokeColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-1165" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-26" value="User Assets" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-1140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-27" value="Admin Fees" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-1170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-28" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#4D4D4D;strokeColor=#FFFFFF;arcSize=13;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-970" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-29" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;fillColor=#688F51;strokeColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-830" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#688F51;strokeColor=#97D077;strokeWidth=3;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="l8Ifhlr_3lOIqzxVYJLy-31" target="l8Ifhlr_3lOIqzxVYJLy-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="-790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-31" value="All Other Admin Fees from Pools" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-815" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-32" value="Fee Collection" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-970" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-33" value="&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Coins held after collecting:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;USDC&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;DAI&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;USDC / WETH LP Tokens&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;crvUSD&lt;/font&gt;&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-940" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-34" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;fillColor=#688F51;strokeColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-550" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#97D077;fillColor=#688F51;strokeWidth=3;fontSize=12;" edge="1" parent="1" source="l8Ifhlr_3lOIqzxVYJLy-36" target="l8Ifhlr_3lOIqzxVYJLy-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="-510" />
+              <mxPoint x="470" y="-635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-36" value="All Other crvUSD Minting Market Admin Fees" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-535" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-37" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;arcSize=13;fillColor=#4D4D4D;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-710" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.436;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#97D077;fillColor=#688F51;strokeWidth=3;fontSize=12;" edge="1" parent="1" source="l8Ifhlr_3lOIqzxVYJLy-39" target="l8Ifhlr_3lOIqzxVYJLy-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-39" value="Fee Splitter" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-710" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-40" value="&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Claims and splits crvUSD fees according to DAO defined limits&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-680" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-41" value="Most fees still flow to veCRV holders" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-770" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.396;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#97D077;fillColor=#ffe6cc;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610.1600000000001" y="-610" as="sourcePoint" />
+            <mxPoint x="610" y="-540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#8D96A3;strokeColor=#DAE8FC;fontStyle=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-540" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-44" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;st-crvUSD&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4B6385;strokeColor=#DAE8FC;opacity=50;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="508.5" y="-531.5" width="121.5" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-45" value="" style="endArrow=oval;html=1;rounded=0;strokeColor=#97D077;fillColor=#ffe6cc;strokeWidth=3;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="-610" as="sourcePoint" />
+            <mxPoint x="690" y="-570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-46" value="More products can be added to the splitter if the DAO desires" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-550" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l8Ifhlr_3lOIqzxVYJLy-47" value="Small amount &lt;br&gt;of fees sent to &lt;br&gt;st-crvUSD" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-590" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
