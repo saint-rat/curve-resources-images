@@ -1,0 +1,155 @@
+<mxfile host="Electron" modified="2024-05-23T02:33:31.891Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="vYpQrNG1-zigH4wfk02N" version="21.6.5" type="device">
+  <diagram name="Page-1" id="q6WoUwT-CLWA9rn1Nv-X">
+    <mxGraphModel dx="1137" dy="2703" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1060" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-18" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="20" width="400" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-12" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="40" y="250" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-14" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;arcSize=25;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-11" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="40" y="20" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-8" value="&amp;nbsp;$100" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;opacity=50;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-16" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;" parent="1" vertex="1">
+          <mxGeometry x="440" y="50" width="310" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-2" value="&amp;nbsp;$10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#D6B656;align=left;opacity=50;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="90" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-3" value="&amp;nbsp;$100" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;opacity=50;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="180" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;strokeColor=#D6B656;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="180" as="sourcePoint" />
+            <mxPoint x="210" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="180" />
+              <mxPoint x="690" y="260" />
+              <mxPoint x="210" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-13" value="Liquidator repays $90 user&#39;s crvUSD debt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-55" value="&amp;nbsp;$90" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#D6B656;opacity=50;dashed=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="520" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-72" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="230" as="sourcePoint" />
+            <mxPoint x="120" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-73" value="crvUSD&lt;br&gt;Collateral" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="90" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-74" value="crvUSD&lt;br&gt;Debt" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="180" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-97" value="Liquidator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="545" y="230" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-98" value="User Loan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="20" y="310" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-101" value="Health:" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="250" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-102" value="-0.01%" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="255" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-HUMq1xGHRP7OBbY1grz-106" value="WETH" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="110" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-7" value="crvUSD" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="140" as="sourcePoint" />
+            <mxPoint x="120" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-10" value="&amp;nbsp;$100" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#94CC74;strokeColor=#82b366;align=left;" parent="1" vertex="1">
+          <mxGeometry x="520" y="110" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519.31" y="210" as="sourcePoint" />
+            <mxPoint x="519" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-16" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#D6B656;strokeWidth=5;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="110" as="sourcePoint" />
+            <mxPoint x="270" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="110" />
+              <mxPoint x="350" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-17" value="User&#39;s crvUSD collateral repays $10 of debt" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-18" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="110" as="sourcePoint" />
+            <mxPoint x="640" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-19" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="669.2" y="110" as="sourcePoint" />
+            <mxPoint x="669" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="100" as="sourcePoint" />
+            <mxPoint x="670" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-21" value="$10&lt;br&gt;profit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-22" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;strokeColor=#82B366;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="40" as="sourcePoint" />
+            <mxPoint x="560" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="-20" />
+              <mxPoint x="560" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-23" value="Liquidator receives user&#39;s WETH collateral as reward after debt is repaid" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-24" value="WETH&lt;br&gt;Collateral" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="40" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="320" as="sourcePoint" />
+            <mxPoint x="110" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VDP6B44c-AONcS0qkfc-26" value="User can be liquidated as health is negative" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
